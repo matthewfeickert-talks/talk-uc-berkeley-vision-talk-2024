@@ -1,7 +1,7 @@
 class: middle, center, title-slide
 count: false
 
-# Research Program Vision
+# Towards Differential Open Ecosystems
 
 .huge.blue[Matthew Feickert]<br>
 .huge[(University of Wisconsin-Madison)]
@@ -26,9 +26,9 @@ January 30th, 2024
 .kol-2-3[
 .huge[
 * As a "data physicist" have privileged opportunity to work among multiple scientific communities
-* Care about .bold[reusable] open science to be able to push particle physics forward at the .bold[community scale]
-   - The challenges of the next decade provide wonderful research environments that will require interdisciplinary knowledge exchange to fully attack
-* Today we'll share .bold[high level] views of deeply .bold[technical problems]
+* Invested in .bold[reusable] open science to be able to push the physical sciences forward at the .bold[community scale]
+   <!-- - The challenges of the next decade provide wonderful research environments that will require interdisciplinary knowledge exchange to fully attack -->
+* My research vision is focused on .bold[engaging] the scientific open source communities to drive research and exploring .bold[applications] in the physical sciences (eye towards particle physics) that can have significant impact
 ]
 ]
 .kol-1-3[
@@ -40,7 +40,7 @@ January 30th, 2024
 
 .center.width-30[[![logo_Scikit-HEP](figures/scikit-hep-logo.svg)](https://scikit-hep.org/)]
 
-.center.width-30[[![logo_joss](figures/joss_logo.png)](https://joss.theoj.org/)]
+.center.width-90[[![logo_joss](figures/joss-logo-text.png)](https://joss.theoj.org/)]
 ]
 
 ---
@@ -91,6 +91,128 @@ January 30th, 2024
 ---
 # High Energy Physics at the LHC
 
+* Explain what it means to be part of the ATLAS collaboration
+* Explain how publication works
+* Explain how publication can take multiple years
+
+---
+# IRIS-HEP
+
+.kol-3-5[
+<p style="text-align:center;">
+   <a href="https://inspirehep.net/literature/2628983">
+      <img src="figures/IRIS-HEP-HL-LHC-gaps.png"; width=90%>
+   </a>
+</p>
+.large[
+* LHC experiments as stakeholders
+* LHC operations as partners
+]
+]
+.kol-2-5[
+<br>
+<p style="text-align:center;">
+   <a href="https://iris-hep.org/">
+      <img src="assets/logos/logo_IRIS-HEP.png"; width=100%>
+   </a>
+</p>
+.caption[Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)
+
+supported by the National Science Foundation Cooperative Agreements [OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650) <br>and [PHY-2323298](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2323298)
+]
+]
+
+---
+# Dedicated investment for the next decades
+
+.bold.center.large[Exciting future for all these areas in particle physics with large scale investment!]
+
+.kol-1-3[
+<p style="text-align:center;">
+   <a href="https://www.usparticlephysics.org/2023-p5-report/">
+      <img src="figures/p5-theme.jpg"; width=100%>
+   </a>
+</p>
+
+.center[[Exploring the Quantum Universe<br>
+Report of the 2023 Particle Physics Project Prioritization Panel](https://www.usparticlephysics.org/2023-p5-report/)]
+
+.large[Once a decade formal recommendations from US particle physics community to .bold[US Congress and funding agencies]]
+]
+.kol-2-3[
+<p style="text-align:center;">
+   <a href="https://www.usparticlephysics.org/2023-p5-report/">
+      <img src="figures/p5-charge.png"; width=90%>
+   </a>
+</p>
+<p style="text-align:center;">
+   <a href="https://www.usparticlephysics.org/2023-p5-report/">
+      <img src="figures/p5-software-computing-chapter.png"; width=90%>
+   </a>
+</p>
+<p style="text-align:center;">
+   <a href="https://www.usparticlephysics.org/2023-p5-report/">
+      <img src="figures/p5-area-recommendation-18.png"; width=90%>
+   </a>
+</p>
+]
+
+---
+# Diversity, Equity, Inclusion, and Belonging (DEIB)
+
+.center[DEIB is something that permeates all of our work, so I want to address this first]
+
+* your understanding of diversity and the current state of diversity in your field
+   - Diversity is not just gender or race
+   - Diversity is about lived experience and thought
+   - Diversity in physics is not great, but improving
+* specific activities for improving DEIB that you may have been previously involved in
+   - Workshops all have captioning
+      - Check on PyHEP 2023
+* specific plans for improving DEIB in the future
+   - Making access to materials as open and accessible as possible (think specifically of teaching)
+   - Code of Conduct for lab
+   - Mentoring program
+   - Credit for work
+
+---
+# Opportunities and Challenges of the HL-LHC
+<!--  -->
+<p style="text-align:center;">
+   <a href="https://hilumilhc.web.cern.ch/content/hl-lhc-project">
+      <img src="figures/HL-LHC_schedule.png"; width=69%>
+   </a>
+   <img src="figures/lhc_lumi.png"; width=30%>
+</p>
+<!--  -->
+.large[
+* Increase in data generating collision rate ("luminosity") of roughly order of magnitude
+   - Factor of .bold[20-25] times ($3$ - $4$ $\mathrm{ab}^{-1}$) the amount of collisions delivered from Run-2 of the LHC
+* Boon for measurements constrained by statistical uncertainties, searches for rare processes
+]
+
+---
+class: end-slide, center
+
+.large[Backup]
+
+---
+# Opportunities and Challenges of the HL-LHC
+
+.center.large[Challenge to be able to .bold[record, store, and analyze] the data]
+
+<p style="text-align:center;">
+   <a href="https://cds.cern.ch/record/2803119?ln=en">
+      <img src="figures/HL-LHC-cpu-projections-atlas.png"; width=50%>
+   </a>
+.center[[ATLAS software and computing review](https://cds.cern.ch/record/2803119?ln=en)]
+</p>
+
+.center.large[Projected .bold[required compute usage] for HL-LHC (want .blue[R]&.red[D] below .black[budget] line)]
+
+---
+# High Energy Physics at the LHC
+
 .kol-3-5[
 .large[
 * LHC beam crossing at experiments every .bold[25 ns] <br>(.bold[40 MHz] collisions)
@@ -124,84 +246,6 @@ January 30th, 2024
    - Factor of .bold[20-25] times ($3$ - $4$ $\mathrm{ab}^{-1}$) the amount of collisions delivered from Run-2 of the LHC
 * Boon for measurements constrained by statistical uncertainties, searches for rare processes
 ]
-
----
-# Opportunities and Challenges of the HL-LHC
-<!--  -->
-<p style="text-align:center;">
-   <a href="https://hilumilhc.web.cern.ch/content/hl-lhc-project">
-      <img src="figures/HL-LHC_schedule.png"; width=69%>
-   </a>
-   <img src="figures/lhc_lumi.png"; width=30%>
-</p>
-<!--  -->
-.large[
-* Increase in data generating collision rate ("luminosity") of roughly order of magnitude
-   - Factor of .bold[20-25] times ($3$ - $4$ $\mathrm{ab}^{-1}$) the amount of collisions delivered from Run-2 of the LHC
-* Boon for measurements constrained by statistical uncertainties, searches for rare processes
-]
-
----
-# Opportunities and Challenges of the HL-LHC
-
-.center.large[Challenge to be able to .bold[record, store, and analyze] the data]
-
-<p style="text-align:center;">
-   <a href="https://cds.cern.ch/record/2803119?ln=en">
-      <img src="figures/HL-LHC-cpu-projections-atlas.png"; width=50%>
-   </a>
-.center[[ATLAS software and computing review](https://cds.cern.ch/record/2803119?ln=en)]
-</p>
-
-.center.large[Projected .bold[required compute usage] for HL-LHC (want .blue[R]&.red[D] below .black[budget] line)]
-
----
-class: end-slide, center
-
-.large[Backup]
-
----
-# Opportunities and Challenges of the HL-LHC
-
-.center.large[Challenge to be able to .bold[record, store, and analyze] the data]
-
-.kol-1-2[
-<p style="text-align:center;">
-   <a href="https://cds.cern.ch/record/2803119?ln=en">
-      <img src="figures/HL-LHC-disk-projections-atlas.png"; width=95%>
-   </a>
-</p>
-]
-.kol-1-2[
-<br>
-<p style="text-align:center;">
-   <a href="https://cds.cern.ch/record/2815292?ln=en">
-      <img src="figures/HL-LHC-disk-projections-cms.png"; width=100%>
-   </a>
-</p>
-]
-
-.center.large[Projected .bold[required disk usage] for HL-LHC (want R&D below budget line)]
-
-.center[[ATLAS](https://cds.cern.ch/record/2803119?ln=en) and [CMS](https://cds.cern.ch/record/2815292?ln=en) software and computing reviews]
-
----
-# Diversity, Equity, Inclusion, and Belonging (DEIB)
-
-.center[DEIB is something that permeates all of our work, so I want to address this first]
-
-* your understanding of diversity and the current state of diversity in your field
-   - Diversity is not just gender or race
-   - Diversity is about lived experience and thought
-   - Diversity in physics is not great, but improving
-* specific activities for improving DEIB that you may have been previously involved in
-   - Workshops all have captioning
-      - Check on PyHEP 2023
-* specific plans for improving DEIB in the future
-   - Making access to materials as open and accessible as possible (think specifically of teaching)
-   - Code of Conduct for lab
-   - Mentoring program
-   - Credit for work
 
 ---
 
