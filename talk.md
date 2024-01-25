@@ -10,7 +10,7 @@ count: false
 
 [UC Berkeley Vision/Chalk Talk](https://matthewfeickert-talks.github.io/talk-uc-berkeley-vision-talk-2024/)
 
-January 31st, 2024
+January 30th, 2024
 
 ---
 # Notes
@@ -201,6 +201,7 @@ class: end-slide, center
    - Making access to materials as open and accessible as possible (think specifically of teaching)
    - Code of Conduct for lab
    - Mentoring program
+   - Credit for work
 
 ---
 
