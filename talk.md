@@ -123,6 +123,22 @@ supported by the National Science Foundation Cooperative Agreements [OAC-1836650
 ]
 
 ---
+# Opportunities and Challenges of the HL-LHC
+<!--  -->
+<p style="text-align:center;">
+   <a href="https://hilumilhc.web.cern.ch/content/hl-lhc-project">
+      <img src="figures/HL-LHC_schedule.png"; width=69%>
+   </a>
+   <img src="figures/lhc_lumi.png"; width=30%>
+</p>
+<!--  -->
+.large[
+* Increase in data generating collision rate ("luminosity") of roughly order of magnitude
+   - Factor of .bold[20-25] times ($3$ - $4$ $\mathrm{ab}^{-1}$) the amount of collisions delivered from Run-2 of the LHC
+* Boon for measurements constrained by statistical uncertainties, searches for rare processes
+]
+
+---
 # Dedicated investment for the next decades
 
 .bold.center.large[Exciting future for all these areas in particle physics with large scale investment!]
@@ -175,21 +191,11 @@ Report of the 2023 Particle Physics Project Prioritization Panel](https://www.us
    - Mentoring program
    - Credit for work
 
----
-# Opportunities and Challenges of the HL-LHC
-<!--  -->
-<p style="text-align:center;">
-   <a href="https://hilumilhc.web.cern.ch/content/hl-lhc-project">
-      <img src="figures/HL-LHC_schedule.png"; width=69%>
-   </a>
-   <img src="figures/lhc_lumi.png"; width=30%>
-</p>
-<!--  -->
-.large[
-* Increase in data generating collision rate ("luminosity") of roughly order of magnitude
-   - Factor of .bold[20-25] times ($3$ - $4$ $\mathrm{ab}^{-1}$) the amount of collisions delivered from Run-2 of the LHC
-* Boon for measurements constrained by statistical uncertainties, searches for rare processes
-]
+# Research Program Pillars
+
+* Engaging the broader scientific open source ecosystem for advancing data science for fundamental science
+* Differentiable Programming for Current and Future Physics
+* Reusable open science as tools for new science
 
 ---
 class: end-slide, center

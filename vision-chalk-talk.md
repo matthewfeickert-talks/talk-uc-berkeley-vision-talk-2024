@@ -26,6 +26,7 @@
 * Julia HEP
 * Lots of domain specific ecosystems
 * Moving towards having them
+* Open Source Program Office
 
 ## Automatic Differentiation as a tool for doing physics at scale
 
@@ -33,10 +34,6 @@
 
 * Need as variational inference isn't fully possible
 * Maps well to many physics use cases where things can't
-
-## Open Source Program Office
-
-* X
 
 ---
 
