@@ -188,9 +188,19 @@ class: end-slide, center
 ---
 # Diversity, Equity, Inclusion, and Belonging (DEIB)
 
+.center[DEIB is something that permeates all of our work, so I want to address this first]
+
 * your understanding of diversity and the current state of diversity in your field
+   - Diversity is not just gender or race
+   - Diversity is about lived experience and thought
+   - Diversity in physics is not great, but improving
 * specific activities for improving DEIB that you may have been previously involved in
+   - Workshops all have captioning
+      - Check on PyHEP 2023
 * specific plans for improving DEIB in the future
+   - Making access to materials as open and accessible as possible (think specifically of teaching)
+   - Code of Conduct for lab
+   - Mentoring program
 
 ---
 
