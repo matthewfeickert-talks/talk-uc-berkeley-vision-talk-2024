@@ -173,12 +173,7 @@ Report of the 2023 Particle Physics Project Prioritization Panel](https://www.us
 </p>
 ]
 
----
-# Diversity, Equity, Inclusion, and Belonging (DEIB)
-
-.center[DEIB is something that permeates all of our work, so I want to address this first]
-
-* your understanding of diversity and the current state of diversity in your field
+<!-- * your understanding of diversity and the current state of diversity in your field
    - Diversity is not just gender or race
    - Diversity is about lived experience and thought
    - Diversity in physics is not great, but improving
@@ -189,7 +184,45 @@ Report of the 2023 Particle Physics Project Prioritization Panel](https://www.us
    - Making access to materials as open and accessible as possible (think specifically of teaching)
    - Code of Conduct for lab
    - Mentoring program
-   - Credit for work
+   - Engaging with AIMS Africa
+   - Credit for work -->
+
+---
+# Diversity, Equity, Inclusion, and Belonging (DEIB)
+
+.center[DEIB is something that permeates all of our work, so I want to address this first]
+
+<br>
+.kol-1-4[
+<p style="text-align:center;">
+   <a href="https://inspirehep.net/literature/2672083">
+      <img src="figures/atlas-women-authors-2019.png"; width=100%>
+   </a>
+</p>
+.center[DEIB extends beyond what we see to who people are]
+]
+.kol-2-4[
+<br>
+<br>
+<p style="text-align:center;">
+   <a href="https://arxiv.org/abs/2203.08748">
+      <img src="figures/autocaption-report.png"; width=100%>
+   </a>
+</p>
+<br>
+.center[Better language accessibility helps everyone]
+]
+.kol-1-4[
+<br>
+<br>
+<p style="text-align:center;">
+   <a href="https://joss.theoj.org/about#code_of_conduct">
+      <img src="figures/code-of-conduct.png"; width=100%>
+   </a>
+</p>
+.center[Establishing what we as a community do provides platforms for support]
+]
+
 
 ---
 # Research Program Pillars
