@@ -186,6 +186,13 @@ class: end-slide, center
 .center[[ATLAS](https://cds.cern.ch/record/2803119?ln=en) and [CMS](https://cds.cern.ch/record/2815292?ln=en) software and computing reviews]
 
 ---
+# Diversity, Equity, Inclusion, and Belonging (DEIB)
+
+* your understanding of diversity and the current state of diversity in your field
+* specific activities for improving DEIB that you may have been previously involved in
+* specific plans for improving DEIB in the future
+
+---
 
 class: end-slide, center
 count: false
