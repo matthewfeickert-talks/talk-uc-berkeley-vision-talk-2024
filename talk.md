@@ -242,9 +242,13 @@ Report of the 2023 Particle Physics Project Prioritization Panel](https://www.us
 ]
 .kol-1-3[
 <p style="text-align:center;">
-      <img src="figures/open-source-ecosytems.png"; width=100%>
+      <img src="assets/logos/logo_IRIS-HEP.png"; width=100%>
 </p>
-.center.large[Reusable open science platforms as tools for new science]
+<br>
+<p style="text-align:center;">
+      <img src="figures/logo-reana.svg"; width=100%>
+</p>
+.center.large[Reusable open source cyberinfrastructure as tools for new science]
 ]
 
 ---
