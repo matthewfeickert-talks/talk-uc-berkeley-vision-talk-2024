@@ -223,7 +223,6 @@ Report of the 2023 Particle Physics Project Prioritization Panel](https://www.us
 .center[Establishing what we as a community do provides platforms for support]
 ]
 
-
 ---
 # Research Program Pillars
 
@@ -249,6 +248,34 @@ Report of the 2023 Particle Physics Project Prioritization Panel](https://www.us
       <img src="figures/logo-reana.svg"; width=100%>
 </p>
 .center.large[Reusable open source cyberinfrastructure as tools for new science]
+]
+
+---
+# Data Science for the physical sciences
+
+.kol-1-3[
+<p style="text-align:center;">
+      <img src="figures/pyhep-ecosystem.svg"; width=100%>
+</p>
+.center.large[Domain specific ecosystems are growing, but are at different maturity levels]
+]
+.kol-1-3[
+<br>
+.grid[
+.kol-1-2[
+<p style="text-align:center;">
+      <img src="figures/scientific-python-logo-text.png"; width=100%>
+</p>
+]
+.kol-1-2[
+<br>
+<p style="text-align:center;">
+      <img src="figures/julia-logo.svg"; width=100%>
+</p>
+]
+]
+<br>
+.center.large[Advancing data science requires spanning languages and open source communities]
 ]
 
 ---
