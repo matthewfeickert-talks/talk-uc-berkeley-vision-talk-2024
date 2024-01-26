@@ -277,6 +277,17 @@ Report of the 2023 Particle Physics Project Prioritization Panel](https://www.us
 <br>
 .center.large[Advancing data science requires spanning languages and open source communities]
 ]
+.kol-1-3[
+<p style="text-align:center;">
+   <a href="https://datascience.wisc.edu/2023/07/11/data-science-institute-to-establish-campus-open-source-program-office/">
+      <img src="figures/uw-madison-ospo.png"; width=80%>
+   </a>
+   <a href="https://numfocus.org/sponsored-projects/affiliated-projects">
+      <img src="figures/numfocus-logo.png"; width=70%>
+   </a>
+</p>
+.center.large[Cultivating ecosystems of impact at the University, national, and international levels]
+]
 
 ---
 class: end-slide, center
