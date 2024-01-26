@@ -264,7 +264,9 @@ Report of the 2023 Particle Physics Project Prioritization Panel](https://www.us
 .grid[
 .kol-1-2[
 <p style="text-align:center;">
+   <a href="https://scientific-python.org/">
       <img src="figures/scientific-python-logo-text.png"; width=100%>
+   </a>
 </p>
 ]
 .kol-1-2[
