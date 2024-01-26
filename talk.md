@@ -98,19 +98,21 @@ January 30th, 2024
 ---
 # IRIS-HEP
 
+.large[.bold[Execute R&D activities] required to close the HL-LHC software and computing gaps and serve as .bold[intellectual hub for larger community]]
+
 .kol-3-5[
-<p style="text-align:center;">
-   <a href="https://inspirehep.net/literature/2628983">
-      <img src="figures/IRIS-HEP-HL-LHC-gaps.png"; width=90%>
-   </a>
-</p>
-.large[
-* LHC experiments as stakeholders
-* LHC operations as partners
+.huge.bold[[HL-LHC Software and Computing Gaps](https://inspirehep.net/literature/2628983)]
+.huge[
+1. Raw resource gaps
+
+2. Scalability of the distributed computing cyberinfrastructure
+
+3. Analysis at scale
+
+4. Sustainability
 ]
 ]
 .kol-2-5[
-<br>
 <p style="text-align:center;">
    <a href="https://iris-hep.org/">
       <img src="assets/logos/logo_IRIS-HEP.png"; width=100%>
@@ -190,7 +192,7 @@ Report of the 2023 Particle Physics Project Prioritization Panel](https://www.us
 ---
 # Diversity, Equity, Inclusion, and Belonging (DEIB)
 
-.center[DEIB is something that permeates all of our work, so I want to address this first]
+.center.large[DEIB is something that permeates all of our work, so I want to address this first]
 
 <br>
 .kol-1-4[
