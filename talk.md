@@ -231,19 +231,20 @@ Report of the 2023 Particle Physics Project Prioritization Panel](https://www.us
 <p style="text-align:center;">
       <img src="figures/open-source-ecosytems.png"; width=100%>
 </p>
-.center.huge[Advancing data science for fundamental science through open source]
+.center.large[Advancing data science for fundamental science through open source]
+]
+.kol-1-3[
+<br>
+<p style="text-align:center;">
+      <img src="figures/MIAPbP-workshop-poster.png"; width=100%>
+</p>
+.center.large[Differentiable Programming for Current and Future Fundamental Science]
 ]
 .kol-1-3[
 <p style="text-align:center;">
       <img src="figures/open-source-ecosytems.png"; width=100%>
 </p>
-.center.huge[Differentiable Programming for Current and Future Physics]
-]
-.kol-1-3[
-<p style="text-align:center;">
-      <img src="figures/open-source-ecosytems.png"; width=100%>
-</p>
-.center.huge[Reusable open science platforms as tools for new science]
+.center.large[Reusable open science platforms as tools for new science]
 ]
 
 ---
