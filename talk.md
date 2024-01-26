@@ -227,9 +227,24 @@ Report of the 2023 Particle Physics Project Prioritization Panel](https://www.us
 ---
 # Research Program Pillars
 
-* Engaging the broader scientific open source ecosystem for advancing data science for fundamental science
-* Differentiable Programming for Current and Future Physics
-* Reusable open science as tools for new science
+.kol-1-3[
+<p style="text-align:center;">
+      <img src="figures/open-source-ecosytems.png"; width=100%>
+</p>
+.center.huge[Advancing data science for fundamental science through open source]
+]
+.kol-1-3[
+<p style="text-align:center;">
+      <img src="figures/open-source-ecosytems.png"; width=100%>
+</p>
+.center.huge[Differentiable Programming for Current and Future Physics]
+]
+.kol-1-3[
+<p style="text-align:center;">
+      <img src="figures/open-source-ecosytems.png"; width=100%>
+</p>
+.center.huge[Reusable open science platforms as tools for new science]
+]
 
 ---
 class: end-slide, center
