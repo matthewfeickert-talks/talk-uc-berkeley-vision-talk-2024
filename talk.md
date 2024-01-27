@@ -237,7 +237,9 @@ Report of the 2023 Particle Physics Project Prioritization Panel](https://www.us
 .kol-1-3[
 <br>
 <p style="text-align:center;">
+   <a href="https://indico.ph.tum.de/event/7113/">
       <img src="figures/MIAPbP-workshop-poster.png"; width=100%>
+   </a>
 </p>
 .center.large[Differentiable programming for current and future fundamental science]
 ]
@@ -259,7 +261,7 @@ Report of the 2023 Particle Physics Project Prioritization Panel](https://www.us
 <p style="text-align:center;">
       <img src="figures/pyhep-ecosystem.svg"; width=100%>
 </p>
-.center.large[Domain specific ecosystems are growing, but are at different maturity levels]
+.center.large[Domain specific ecosystems are growing, but are at different maturity levels. <br>Build the bridges!]
 ]
 .kol-1-3[
 <br>
@@ -292,6 +294,40 @@ Report of the 2023 Particle Physics Project Prioritization Panel](https://www.us
 </p>
 .center.large[Cultivating ecosystems of impact at the University, national, and international levels]
 ]
+
+---
+# Diff. programming for fundamental science
+
+.kol-1-3[
+<p style="text-align:center;">
+   <a href="https://pyhf.readthedocs.io/">
+      <img src="figures/pyhf-logo.svg"; width=80%>
+   </a>
+</p>
+.center.large[Enabling use of automatic differentiation in physics analysis.<br>Expand to add fixed point optimization.]
+]
+.kol-2-3[
+$$
+p\left(x \middle|\theta\right) = \int dz\_{D} dz\_{S} dz\_{P} \\, p\left(x \middle|z\_{D}\right) p\left(z\_{D} \middle|z\_{S}\right) p\left(z\_{S} \middle|z\_{P}\right) p\left(z\_{P} \middle|\theta\right)
+$$
+<p style="text-align:center;">
+   <a href="https://arxiv.org/abs/1911.01429">
+      <img src="figures/likelihood-prediction-simulation-chain.png"; width=100%>
+   </a>
+</p>
+.center.large[Differentiable simulators can make simulation based inference no longer "black box", but accessible to inference workflow]
+]
+
+---
+# Math
+
+$$
+f\left(\mathrm{data}\middle|\mathrm{parameters}\right) =  f\left(\textcolor{#00a620}{\vec{n}}, \textcolor{#a3130f}{\vec{a}}\middle|\textcolor{#0495fc}{\vec{\eta}}, \textcolor{#9c2cfc}{\vec{\chi}}\right) = \textcolor{blue}{\prod\_{c \\,\in\\, \textrm{channels}} \prod\_{b \\,\in\\, \textrm{bins}\_c} \textrm{Pois} \left(n\_{cb} \middle| \nu\_{cb}\left(\vec{\eta}, \vec{\chi}\right)\right)} \\,\textcolor{red}{\prod\_{\chi \\,\in\\, \vec{\chi}} c\_{\chi} \left(a\_{\chi}\middle|\chi\right)}
+$$
+
+$$
+p\left(x \middle|\theta\right) = \int dz\_{D} dz\_{S} dz\_{P} \\, p\left(x \middle|z\_{D}\right) p\left(z\_{D} \middle|z\_{S}\right) p\left(z\_{S} \middle|z\_{P}\right) p\left(z\_{P} \middle|\theta\right)
+$$
 
 ---
 class: end-slide, center
