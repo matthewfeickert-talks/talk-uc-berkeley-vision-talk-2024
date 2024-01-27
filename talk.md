@@ -1,7 +1,7 @@
 class: middle, center, title-slide
 count: false
 
-# Towards Differential Open Ecosystems
+# Reusable Open Science as Tools for Discovery
 
 .huge.blue[Matthew Feickert]<br>
 .huge[(University of Wisconsin-Madison)]
