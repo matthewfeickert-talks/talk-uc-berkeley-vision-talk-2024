@@ -43,6 +43,12 @@ January 30th, 2024
 .center.width-90[[![logo_joss](figures/joss-logo-text.png)](https://joss.theoj.org/)]
 ]
 
+<!--
+* Explain what it means to be part of the ATLAS collaboration
+* Explain how publication works
+* Explain how publication can take multiple years
+ -->
+
 ---
 # High Energy Physics at the LHC
 
@@ -89,11 +95,21 @@ January 30th, 2024
 ]
 
 ---
-# High Energy Physics at the LHC
-
-* Explain what it means to be part of the ATLAS collaboration
-* Explain how publication works
-* Explain how publication can take multiple years
+# Opportunities and Challenges of the HL-LHC
+<!--  -->
+<p style="text-align:center;">
+   <a href="https://hilumilhc.web.cern.ch/content/hl-lhc-project">
+      <img src="figures/HL-LHC_schedule.png"; width=69%>
+   </a>
+   <img src="figures/lhc_lumi.png"; width=30%>
+</p>
+<!--  -->
+.large[
+* Increase in data generating collision rate ("luminosity") of roughly order of magnitude
+   - Factor of .bold[20-25] times ($3$ - $4$ $\mathrm{ab}^{-1}$) the amount of collisions delivered from Run-2 of the LHC
+   - .italic[Current] luminosity results in about .bold[90 petabytes] of collision data recorded per year
+* Boon for measurements constrained by statistical uncertainties, searches for rare processes
+]
 
 ---
 # IRIS-HEP
@@ -122,22 +138,6 @@ January 30th, 2024
 
 supported by the National Science Foundation Cooperative Agreements [OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650) <br>and [PHY-2323298](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2323298)
 ]
-]
-
----
-# Opportunities and Challenges of the HL-LHC
-<!--  -->
-<p style="text-align:center;">
-   <a href="https://hilumilhc.web.cern.ch/content/hl-lhc-project">
-      <img src="figures/HL-LHC_schedule.png"; width=69%>
-   </a>
-   <img src="figures/lhc_lumi.png"; width=30%>
-</p>
-<!--  -->
-.large[
-* Increase in data generating collision rate ("luminosity") of roughly order of magnitude
-   - Factor of .bold[20-25] times ($3$ - $4$ $\mathrm{ab}^{-1}$) the amount of collisions delivered from Run-2 of the LHC
-* Boon for measurements constrained by statistical uncertainties, searches for rare processes
 ]
 
 ---
