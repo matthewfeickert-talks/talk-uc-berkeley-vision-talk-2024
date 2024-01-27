@@ -26,9 +26,9 @@ January 30th, 2024
 .kol-2-3[
 .huge[
 * As a "data physicist" have privileged opportunity to work among multiple scientific communities
-* Invested in .bold[reusable] open science to be able to push the physical sciences forward at the .bold[community scale]
+* Invested in .bold[reusable] open science to push the physical sciences forward at the .bold[community scale]
    <!-- - The challenges of the next decade provide wonderful research environments that will require interdisciplinary knowledge exchange to fully attack -->
-* My research vision is focused on .bold[engaging] the scientific open source communities to drive research and exploring .bold[applications] in the physical sciences (eye towards particle physics) that can have significant impact
+* My research vision is focused on .bold[engaging scientific open source communities] to drive research and exploring .bold[impactful data science applications in the physical sciences] (e.g. particle physics)
 ]
 ]
 .kol-1-3[
@@ -106,7 +106,7 @@ January 30th, 2024
 <!--  -->
 .large[
 * Increase in data generating collision rate ("luminosity") of roughly order of magnitude
-   - Factor of .bold[20-25] times ($3$ - $4$ $\mathrm{ab}^{-1}$) the amount of collisions delivered from Run-2 of the LHC
+   - Factor of .bold[20-25] times the amount of collisions delivered from Run-2 of the LHC
    - .italic[Current] luminosity results in about .bold[90 petabytes] of collision data recorded per year
 * Boon for measurements constrained by statistical uncertainties, searches for rare processes
 ]
@@ -134,9 +134,9 @@ January 30th, 2024
       <img src="assets/logos/logo_IRIS-HEP.png"; width=100%>
    </a>
 </p>
-.caption[Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)
+.center.large[Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)]
 
-supported by the National Science Foundation Cooperative Agreements [OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650) <br>and [PHY-2323298](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2323298)
+.center[Supported by the National Science Foundation Cooperative Agreements <br>[OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650) and [PHY-2323298](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2323298)
 ]
 ]
 
@@ -305,7 +305,7 @@ Serve on Formation Task Force for the Coordinating Panel for Software and Comput
       <img src="figures/pyhf-logo.svg"; width=80%>
    </a>
 </p>
-.center.large[Enabling use of automatic differentiation in physics analysis.<br>Expand to add fixed point optimization.]
+.center.large[Expanding automatic differentiation in physics analysis.<br>Expand to add fixed point optimization.]
 ]
 .kol-2-3[
 $$
@@ -316,7 +316,7 @@ $$
       <img src="figures/likelihood-prediction-simulation-chain.png"; width=100%>
    </a>
 </p>
-.center.large[Differentiable simulators can make simulation based inference no longer "black box", but accessible to inference workflow]
+.center.large[Differentiable simulators can make simulation based inference less "black box" and be accessible to inference workflow]
 ]
 
 ---
