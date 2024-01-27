@@ -193,6 +193,24 @@ Serve on Formation Task Force for the Coordinating Panel for Software and Comput
    - Credit for work
 -->
 
+<!--
+## your understanding of diversity and the current state of diversity in your field
+* I come from experimental high energy particle physics, a very international field.
+The experimental collaborations are huge (ATLAS and CMS are about 3,000 authors each)
+but we've historically not done the best when it comes to DEIB issues like gender representation.
+While there has been impacts in the field over the last decade, with the number of women climbing,
+we're still far from gender parity, and if this is broken down by regions this isn't homogenous growth.
+I've learned though that DEIB isn't only about the diversity issues that we can see, but also about
+ensuring equitable access and support. An under represented group of physicists that I've had the great
+fortune to work with are member of the Deaf community, and I think they often go overlooked in broader
+DEIB efforts. In the era of video calls, we often make lots of assumptions about how people can meet and
+how quickly meetings can shift. While video calls are great for making things more public, if they
+don't have high quality captions of the audio they aren't accessible to the Deaf community.
+As the Deaf community is not always as publicly represented, they often need to advocate for their own
+needs and resources, which is an additional time, energy, and labor debt when they might already
+be lacking basic support structures.
+-->
+
 ---
 # Diversity, Equity, Inclusion, and Belonging (DEIB)
 
