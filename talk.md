@@ -177,7 +177,8 @@ Serve on Formation Task Force for the Coordinating Panel for Software and Comput
 </p>
 ]
 
-<!-- * your understanding of diversity and the current state of diversity in your field
+<!--
+* your understanding of diversity and the current state of diversity in your field
    - Diversity is not just gender or race
    - Diversity is about lived experience and thought
    - Diversity in physics is not great, but improving
@@ -189,7 +190,8 @@ Serve on Formation Task Force for the Coordinating Panel for Software and Comput
    - Code of Conduct for lab
    - Mentoring program
    - Engaging with AIMS Africa
-   - Credit for work -->
+   - Credit for work
+-->
 
 ---
 # Diversity, Equity, Inclusion, and Belonging (DEIB)
@@ -349,6 +351,18 @@ $$
    </a>
 </p>
 .center.large[Bringing analysis reuse to the cloud scale allows attacking previously intractable problems. Allows for methods like active learning in ML to become reasonable.]
+]
+
+---
+# Summary
+
+.huge[
+* Open science brings opportunities for advancements across ecosystems, communities, and fields
+* Identified areas prime for impact from my leadership in particle physics (analysis, scientific open source, communities)
+* Excited to explore these areas more broadly across data science and cyberinfrastructure for the physical sciences
+   - Shared techniques and methods
+   - Shared technology ecosystems
+   - Shared cyberinfrastrucutre broader goals
 ]
 
 ---
