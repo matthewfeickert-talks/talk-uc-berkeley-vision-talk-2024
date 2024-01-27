@@ -20,6 +20,7 @@ January 30th, 2024
 
  For the faculty only vision talk, feel free to bring a set of slides to set the stage for the discussion and provide any necessary background, as well as material you might expect to use as backup for illustration during. But after the initial setup of your research vision and ideas, you should expect a free-flowing discussion where prepared slides will be of less help.
 
+* .bold[Notes]: The slides following the DEIB slide are meant only for "backup for illustration during"
 ---
 # Introduction
 
@@ -206,23 +207,23 @@ Serve on Formation Task Force for the Coordinating Panel for Software and Comput
 ]
 .kol-2-4[
 <br>
-<br>
 <p style="text-align:center;">
    <a href="https://arxiv.org/abs/2203.08748">
       <img src="figures/autocaption-report.png"; width=100%>
    </a>
 </p>
 <br>
+<br>
 .center[Better language accessibility helps everyone]
 ]
 .kol-1-4[
 <br>
-<br>
 <p style="text-align:center;">
    <a href="https://joss.theoj.org/about#code_of_conduct">
-      <img src="figures/code-of-conduct.png"; width=100%>
+      <img src="figures/code-of-conduct.png"; width=130%>
    </a>
 </p>
+<br>
 .center[Establishing what we as a community do provides platforms for support]
 ]
 
