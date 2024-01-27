@@ -95,6 +95,11 @@ January 30th, 2024
 ]
 ]
 
+<!--
+TODO:
+* Kyle: Maybe some high level comments about SW and how HEP fits into the picture before launching into HL-LHC details would be good
+-->
+
 ---
 # Opportunities and Challenges of the HL-LHC
 <!--  -->
@@ -178,23 +183,8 @@ Serve on Formation Task Force for the Coordinating Panel for Software and Comput
 ]
 
 <!--
-* your understanding of diversity and the current state of diversity in your field
-   - Diversity is not just gender or race
-   - Diversity is about lived experience and thought
-   - Diversity in physics is not great, but improving
-* specific activities for improving DEIB that you may have been previously involved in
-   - Workshops all have captioning
-      - Check on PyHEP 2023
-* specific plans for improving DEIB in the future
-   - Making access to materials as open and accessible as possible (think specifically of teaching)
-   - Code of Conduct for lab
-   - Mentoring program
-   - Engaging with AIMS Africa
-   - Credit for work
--->
-
-<!--
 ## your understanding of diversity and the current state of diversity in your field
+
 * I come from experimental high energy particle physics, a very international field.
 The experimental collaborations are huge (ATLAS and CMS are about 3,000 authors each)
 but we've historically not done the best when it comes to DEIB issues like gender representation.
@@ -209,6 +199,46 @@ don't have high quality captions of the audio they aren't accessible to the Deaf
 As the Deaf community is not always as publicly represented, they often need to advocate for their own
 needs and resources, which is an additional time, energy, and labor debt when they might already
 be lacking basic support structures.
+
+## specific activities for improving DEIB that you may have been previously involved in
+
+* Given my leadership roles in IRIS-HEP and the High Energy Physics Software Foundation I've secured funding
+to ensure that all of the Python in HEP (PyHEP) workshops have public video recordings with professionally done
+captioning. While ths work has been done primarily for the benefit of our deaf colleagues, this also benefits everyone
+by making the videos more accessible and helping people for who English is not their primary language. We hear back on this!
+It is important that the captioning is actually useful, and not just spending money to look like we're doing something.
+For the captions to be useful, they have to be accurate. While there has been substantial improvement in transcription
+and language over the last years, in our community studies we've found it (so far!) to not be an appropriate tools for
+accessible captions. The high technical jargon, international accents and speech patterns of the community, and tendency
+to favor male voices means that the word error rate was high enough that there would be an error more than every 2 seconds
+on average.
+* I've also made sure to interact with my deaf colleagues to ensure that the resources that we're providing them
+are the right ones that they need and want, and worked to make sure that their feedback has been heard, shared, and
+incorporated into the future.
+* While small, I also ensure that all workshops and meetings that I organize have Codes of Conduct that are a required
+box to check at registration, made clear in informational emails, and presented in the introductory slides.
+
+## specific plans for improving DEIB in the future
+
+* Making access to materials as open and accessible as possible (think specifically of teaching)
+   - Captioning
+   - screen reader accessibility
+   - all materials being open access
+   - I feel that the University of California system already does a good job of this, but I want to
+     ensure that my classes and professional meetings set a high bar.
+* Code of Conduct for lab
+   - Codes of Conduct do not fix everything and a necessary part of having them is making sure they are
+     actually enforced, which is hard to do right and something that NumFOCUS is looking into improving.
+     What Codes of Conduct can help with though is making sure that people remember they are in a professional
+     environment, and offering clear pathways for conflict resolution.
+* Mentoring program
+   - Providing mentorship to students to help them find the work and communities that they excel at is nontrivial,
+     but an important responsibility.
+* Engaging with AIMS Africa
+* Credit for work
+   - If people don't get credit for their work then URGs are going to be disincentivized from making
+     efforts in software. By giving people due credit for their work and making sure that software
+     is elevated as part of the intellectual work of science, this increases the equity of the work.
 -->
 
 ---
