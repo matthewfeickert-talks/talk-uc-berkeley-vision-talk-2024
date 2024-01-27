@@ -101,6 +101,23 @@ TODO:
 -->
 
 ---
+# Software in High Energy Physics
+
+<p style="text-align:center;">
+   <a href="https://indico.jlab.org/event/505/contributions/9207/">
+      <img src="figures/hep-programming-language-history.png"; width=90%>
+   </a>
+</p>
+
+.large[
+* Scientific software has a long history in HEP with high importance, often developing own tools that are highly tailored to its own problems (e.g. [MINUIT optimizer](https://cds.cern.ch/record/2296388/) (1970s))
+* HEP has not been very good about (usefully) open sourcing code, being invested in broader scientific community software, or giving scholarly credit for software development
+* With recent investments this has started to change
+   - Establishing member of Scikit-HEP
+   - First HEP person (outside of Fernando Pérez) to be part of SciPy conference
+]
+
+---
 # Opportunities and Challenges of the HL-LHC
 <!--  -->
 <p style="text-align:center;">
