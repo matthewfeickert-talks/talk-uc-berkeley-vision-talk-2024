@@ -319,6 +319,37 @@ $$
 ]
 
 ---
+# Cyberinfrastructure for reusable science
+
+<br>
+<br>
+.kol-1-3[
+<p style="text-align:center;">
+   <a href="https://iris-hep.org/as.html">
+      <img src="figures/cabinetry-vertical-slice.png"; width=100%>
+   </a>
+</p>
+.center.large[IRIS-HEP Analysis Systems tools as deployable scalable analysis workflow pipeline]
+]
+.kol-1-3[
+<p style="text-align:center;">
+   <a href="https://pyhf.readthedocs.io/">
+      <img src="figures/recast-workflow-goal.png"; width=100%>
+   </a>
+</p>
+<br>
+.center.large[Analysis reinterpretation and full preservation with RECAST turning analyses into reusable scientific tools. Shrinking the experiment-theory feedback loop.]
+]
+.kol-1-3[
+<p style="text-align:center;">
+   <a href="https://reana.io/">
+      <img src="figures/reana-homepage.png"; width=100%>
+   </a>
+</p>
+.center.large[Bringing analysis reuse to the cloud scale allows attacking previously intractable problems. Allows for methods like active learning in ML to become reasonable.]
+]
+
+---
 class: end-slide, center
 
 .large[Backup]
