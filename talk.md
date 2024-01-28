@@ -114,6 +114,7 @@ TODO:
 * HEP has not been very good about (usefully) open sourcing code, being invested in broader scientific community software, or giving scholarly credit for software development
 * With recent investments this has started to change
    - Establishing member of Scikit-HEP
+<!-- Fernando spoke at SciPy 2003 on IPython first? -->
    - First HEP person (outside of Fernando Pérez) to be part of SciPy conference
 ]
 
