@@ -129,8 +129,6 @@ to perform the final analysis and this means that the time between publications 
 ]
 
 <!--
-TODO:
-* Kyle: Maybe some high level comments about SW and how HEP fits into the picture before launching into HL-LHC details would be good
 -->
 
 ---
@@ -150,6 +148,17 @@ TODO:
 <!-- Fernando spoke at SciPy 2003 on IPython first? -->
    - First HEP person (outside of Fernando Pérez) to be part of SciPy conference
 ]
+
+<!--
+* We're now well into the third data taking run of the LHC and the next big challenge is the High-Luminosity LHC (HL-LHC)
+era where the "luminosity" of the accelerator --- I'm not going to take the time to summarize why it is "luminosity" but we can correlate
+this to the rate at which the data generating collisions will happen --- will increase by about an order of magnitude.
+
+To help put this into perspective, the ATLAS experiment records about 90 petabytes of data a year, and while most of the collisions are
+uninteresting ones that don't get recorded and into the data, the amount of data being recorded in the HL-LHC era is going to significantly rise.
+
+To help put this into a time perspective, the HL-LHC era will start in the late 2020s and will continue for the remainder of the LHC physics program --- another 20 years. This means that in the first 1/3 of the LHC program, we have only recorded about 10% of the total lifetime of the data of the LHC experiments, and in the remaining 2/3 will have to be ready to take 10x that much data.
+-->
 
 ---
 # Opportunities and Challenges of the HL-LHC
