@@ -21,6 +21,22 @@ January 30th, 2024
  For the faculty only vision talk, feel free to bring a set of slides to set the stage for the discussion and provide any necessary background, as well as material you might expect to use as backup for illustration during. But after the initial setup of your research vision and ideas, you should expect a free-flowing discussion where prepared slides will be of less help.
 
 * .bold[Notes]: The slides following the DEIB slide are meant only for "backup for illustration during"
+
+<!--
+I'm an experimental high energy physicist but I also work on scientific software, data analysis tooling, and software community
+building. These things historically don't map nicely to cultural expectations of what experimental particle physicists do, so there
+has started to be a new ambagious term of "data physicist" that has come up to cover people like me.
+
+My work has started out in the ATLAS experiment at the LHC where I have worked on searches for new physics, but as a researcher and
+executive board member in IRIS-HEP I've also been able to focus on leading efforts to bring performant software and cyberinfrastucture
+into the future for the next generation of particle physics experiments at the upgraded High Luminosity LHC (HL-LHC).
+
+I've been able to expand my work through software research and tooling projects for Pythonic data analysis in the Scikit-HEP community project,
+and help promote the value of scientific software by publishing and serving as an associate editor for JOSS.
+
+A thread throughout my work is building scientific open source projects and communities that focus on reuse to move the physical sciences forward at the community scale.
+-->
+
 ---
 # Introduction
 
@@ -48,6 +64,23 @@ January 30th, 2024
 * Explain what it means to be part of the ATLAS collaboration
 * Explain how publication works
 * Explain how publication can take multiple years
+
+A very brief, very high level overview of experimental high energy particle physics at the Large Hadron Collider.
+The LHC is a 27 km circumference particle accelerator and collider system that is about 100 m underground in the Swiss/French
+countryside outside of Geneva, Switzerland, where we accelerate beams of billions of protons to nearly the speed of light
+to reach the highest energy densities on Earth before colliding them to probe the interactions between the fundamental forces
+of Nature and matter.
+
+I'm a member of the ATLAS experimental collaboration, where I'm one of approximately 3,000 collaboration members.
+The ATLAS experiment seen on the right hand side is one of four primary particle physics detectors at the LHC, and we
+use it and its expertly calibrated detector subsystems to track and record the energy and momentum of what comes out of
+these proton-proton collisions.
+We can then perform analysis on our data to see if our existing Standard Model of particle physics describes the data well, or if models
+of new physics that extend Beyond the Standard Model are better fits.
+
+As large experimental collaborations, which function more similarly to governments, physics analyses move slower than
+some other fields of the physical sciences. Analyses will wait until the entire data taking period is finished (usually 2-3 years)
+to perform the final analysis and this means that the time between publications for analysis can sometime take multiple years.
  -->
 
 ---
