@@ -45,7 +45,7 @@ A thread throughout my work is building scientific open source projects and comm
 * As a "data physicist" have privileged opportunity to work among multiple scientific communities
 * Invested in .bold[reusable] open science to push the physical sciences forward at the .bold[community scale]
    <!-- - The challenges of the next decade provide wonderful research environments that will require interdisciplinary knowledge exchange to fully attack -->
-* My research vision is focused on .bold[engaging scientific open source communities] to drive research and exploring .bold[impactful data science applications in the physical sciences] (e.g. particle physics)
+* My research vision is focused on .bold[engaging scientific open source communities] to drive research and exploring .bold[impactful data science and cyberinfrastructure applications in the physical sciences] (e.g. particle physics)
 ]
 ]
 .kol-1-3[
