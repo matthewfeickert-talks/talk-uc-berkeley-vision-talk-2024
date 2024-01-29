@@ -202,7 +202,7 @@ To help put this into a time perspective, the HL-LHC era will start in the late 
 </p>
 .center.large[Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP)]
 
-.center[Supported by the National Science Foundation Cooperative Agreements <br>[OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650) and [PHY-2323298](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2323298)
+.center[$50M in funding from the National Science Foundation Cooperative Agreements <br>[OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650) and [PHY-2323298](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2323298)
 ]
 ]
 
@@ -336,6 +336,10 @@ box to check at registration, made clear in informational emails, and presented 
 <br>
 .center[Establishing what we as a community do provides platforms for support]
 ]
+
+<!--
+My proposed research program focuses on
+-->
 
 ---
 # Research Program Pillars
