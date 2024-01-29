@@ -172,8 +172,8 @@ To help put this into a time perspective, the HL-LHC era will start in the late 
 <!--  -->
 .large[
 * Increase in data generating collision rate ("luminosity") of roughly order of magnitude
-   - Factor of .bold[20-25] times the amount of collisions delivered from Run-2 of the LHC
    - .italic[Current] luminosity results in about .bold[90 petabytes] of collision data recorded per year
+   - Factor of .bold[20-25] times the amount of collisions delivered from Run-2 of the LHC
 * Boon for measurements constrained by statistical uncertainties, searches for rare processes
 ]
 
