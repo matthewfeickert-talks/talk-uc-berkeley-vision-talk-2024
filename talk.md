@@ -338,7 +338,13 @@ box to check at registration, made clear in informational emails, and presented 
 ]
 
 <!--
-My proposed research program focuses on
+My proposed research program focuses on three main areas that I feel have the potential for most
+impact:
+
+* Advancing the state of data science tools for the physical sciences through engagement
+with scientific open source communities.
+* Exploring the impact of differentiable programming on current and future scientific tools.
+* Developing open source cyberinfrastructure as tools for enabling new science.
 -->
 
 ---
@@ -431,7 +437,8 @@ $$
       <img src="figures/likelihood-prediction-simulation-chain.png"; width=100%>
    </a>
 </p>
-.center.large[Differentiable simulators can make simulation based inference less "black box" and be accessible to inference workflow]
+.center.large[Differentiable simulators can make simulation based inference less "black box" and be accessible to inference workflow.
+<br>Strong [bridge to other physical sciences](https://simulation-based-inference.org/) (e.g. astrophysics)]
 ]
 
 ---
