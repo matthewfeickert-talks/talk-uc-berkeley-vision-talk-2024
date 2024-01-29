@@ -313,7 +313,7 @@ box to check at registration, made clear in informational emails, and presented 
       <img src="figures/atlas-women-authors-2019.png"; width=100%>
    </a>
 </p>
-.center[DEIB extends beyond what we see to who people are]
+DEIB extends beyond what we see to who people are
 ]
 .kol-2-4[
 <br>
@@ -327,14 +327,13 @@ box to check at registration, made clear in informational emails, and presented 
 .center[Better language accessibility helps everyone]
 ]
 .kol-1-4[
-<br>
 <p style="text-align:center;">
    <a href="https://joss.theoj.org/about#code_of_conduct">
       <img src="figures/code-of-conduct.png"; width=130%>
    </a>
 </p>
 <br>
-.center[Establishing what we as a community do provides platforms for support]
+Establishing what we as a community do provides platforms for support
 ]
 
 <!--
