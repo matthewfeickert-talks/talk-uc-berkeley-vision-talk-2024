@@ -404,7 +404,7 @@ with scientific open source communities.
       <img src="figures/numfocus-logo.png"; width=70%>
    </a>
 </p>
-.center.large[Cultivating ecosystems of impact at the University, national, and international levels]
+.center.large[Cultivating ecosystems and organizations of impact at the University, national, and international levels]
 ]
 
 ---
