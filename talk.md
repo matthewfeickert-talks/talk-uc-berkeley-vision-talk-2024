@@ -383,25 +383,15 @@ with scientific open source communities.
 <p style="text-align:center;">
       <img src="figures/pyhep-ecosystem.svg"; width=100%>
 </p>
-.center.large[Domain specific ecosystems are growing, but are at different maturity levels. <br>Build the bridges!]
+.center.large[Domain specific ecosystems are growing, but are at different maturity levels. <br>Build the bridges!
+<br>Scikit-HEP as proving grounds]
 ]
 .kol-1-3[
-<br>
-.grid[
-.kol-1-2[
 <p style="text-align:center;">
    <a href="https://scientific-python.org/">
-      <img src="figures/scientific-python-logo-text.png"; width=100%>
+      <img src="figures/scientific-languages.png"; width=100%>
    </a>
 </p>
-]
-.kol-1-2[
-<br>
-<p style="text-align:center;">
-      <img src="figures/julia-logo.svg"; width=100%>
-</p>
-]
-]
 <br>
 .center.large[Advancing data science requires spanning languages and open source communities]
 ]
