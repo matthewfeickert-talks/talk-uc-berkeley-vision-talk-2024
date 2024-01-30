@@ -430,6 +430,7 @@ $$
 .center.large[Differentiable simulators can make simulation based inference less "black box" and be accessible to inference workflow.
 <br>Strong [bridge to other physical sciences](https://simulation-based-inference.org/) (e.g. astrophysics)]
 <!-- Also cosmology, ecology, climate science  -->
+<!-- if deep learning is prob. prog. incorporating autodiff into simulation is a more direct way to exploit the advances in deep learning -->
 ]
 
 ---
