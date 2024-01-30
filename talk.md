@@ -468,7 +468,7 @@ $$
 
 .huge[
 * Open science brings opportunities for advancements across .bold[domains, ecosystems, and communities]
-* Particle physics has been an .bold[intensive proving ground] for my work, and helped me identify areas primed for impact: .bold[open source communities, differential tools, cyberinfrastrucutre for science and AI/ML at scale].
+* Particle physics has been an .bold[intensive proving ground] for my work, and helped me identify areas primed for impact: .bold[open source communities, differential tools, cyberinfrastrucutre for reusable science and AI/ML at scale].
 * Excited to explore these areas more broadly across data science and cyberinfrastructure for the physical sciences
    - Shared techniques and methods
    - Shared technology ecosystems
