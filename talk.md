@@ -101,7 +101,7 @@ to perform the final analysis and this means that the time between publications 
       <img src="figures/ATLAS_TRex.png"; width=100%>
    </a>
 </p>
-.caption[ATLAS]
+.caption[ATLAS ($\mathcal{O}(10^8)$ detector read-out channels)]
 ]
 .kol-1-1[
 .kol-1-2.center[
