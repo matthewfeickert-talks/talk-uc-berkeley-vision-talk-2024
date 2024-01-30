@@ -416,7 +416,7 @@ with scientific open source communities.
       <img src="figures/pyhf-logo.svg"; width=80%>
    </a>
 </p>
-.center.large[Bringing automatic differentiation in physics analysis.<br>Expand to add implicit differentiation through optimization.]
+.center.large[Bringing automatic differentiation in physics analysis.<br>Expand to add implicit differentiation through the optimization.]
 ]
 .kol-2-3[
 $$
