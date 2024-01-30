@@ -314,7 +314,7 @@ box to check at registration, made clear in informational emails, and presented 
       <img src="figures/atlas-women-authors-2019.png"; width=100%>
    </a>
 </p>
-DEIB extends beyond what we see to who people are
+DEIB extends beyond what we .italic[see] to all facets of people
 ]
 .kol-2-4[
 <br>
