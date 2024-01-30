@@ -416,7 +416,7 @@ with scientific open source communities.
       <img src="figures/pyhf-logo.svg"; width=80%>
    </a>
 </p>
-.center.large[Expanding automatic differentiation in physics analysis.<br>Expand to add fixed point optimization.]
+.center.large[Bringing automatic differentiation in physics analysis.<br>Expand to add implicit differentiation through optimization.]
 ]
 .kol-2-3[
 $$
@@ -442,7 +442,8 @@ $$
       <img src="figures/cabinetry-vertical-slice.png"; width=100%>
    </a>
 </p>
-.center.large[IRIS-HEP Analysis Systems tools as deployable scalable analysis workflow pipeline]
+.center.large[IRIS-HEP Analysis Systems tools as deployable scalable analysis workflow pipeline.
+<br>Scaling scientific analysis toolkits to HL-LHC scale problems.]
 ]
 .kol-1-3[
 <p style="text-align:center;">
