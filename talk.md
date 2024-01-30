@@ -453,7 +453,7 @@ $$
    </a>
 </p>
 <br>
-.center.large[Analysis reinterpretation and full preservation with RECAST turning analyses into reusable scientific tools. Shrinking the experiment-theory feedback loop.]
+.center.large[Analysis reinterpretation and full preservation with RECAST turning analyses into reusable scientific tools. Shrinking the experiment-theory feedback loop and saving .italic[years of time and effort].]
 ]
 .kol-1-3[
 <p style="text-align:center;">
